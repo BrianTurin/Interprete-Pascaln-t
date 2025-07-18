@@ -1,0 +1,25 @@
+programita
+seLlama 'Promedio_y_Varianza';
+definicion cant,I,J,aux,acum,promedio,varianza,v vector [10];
+{leer('Ingrese cantidad de numeros a considerar',cant);
+I = 1; 
+mientras I <= cant
+{imprime('Ingrese numero: ',I);
+leer(':',aux);
+v[I] = aux;
+acum = acum+aux;
+I = I + 1
+};
+promedio = 0;
+promedio = acum/cant;
+varianza = 0;
+J = 1;
+mientras J <= cant
+{
+varianza = potencia(v[J]-promedio,2) + varianza;
+J = J+1
+};
+varianza = varianza / (cant - 1);
+imprime('El promedio es: ',promedio);
+imprime('La varianza es: ',varianza)
+}

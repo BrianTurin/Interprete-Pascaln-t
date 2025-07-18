@@ -1,0 +1,26 @@
+programita
+seLlama 'Distancia_Euclideana';
+definicion cant,I,distancia,aux,v1 vector[50],v2 vector[50];
+{leer('Ingrese cantidad de componentes de vectores',cant);
+  si cant>0
+    {I = 1;
+     distancia = 0;
+     aux = 0;
+    mientras I <= cant
+      {imprime('Ingrese componente de V1 nro: ',I);
+       leer(':',aux);
+       v1[I] = aux;
+       imprime('Ingrese componente de V2 nro: ',I);
+       leer(':',aux);
+       v2[I] = aux;
+       I = I + 1
+      };
+    I = cant;
+    mientras I >= 0
+    {
+       distancia = distancia + potencia(v2[I] - v1[I],2);
+       I = I - 1
+    };
+ imprime('La distancia euclidiana entre los vectores es: ',raiz(distancia,2))
+    }
+}

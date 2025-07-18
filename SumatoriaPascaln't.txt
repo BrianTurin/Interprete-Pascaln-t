@@ -1,0 +1,24 @@
+programita
+seLlama 'Sumatoria';
+definicion cant,I,sumatoria,aux,v vector[50];
+{leer('Ingrese cantidad de componentes de vectores',cant);
+  si cant>0
+  {
+  I = 1;
+  sumatoria = 0;
+    mientras I <= cant
+    {
+     imprime('Ingrese componente ',I);
+     leer(':',aux);
+     v[I] = aux;
+     I = I + 1
+    };
+  I = 1;
+   mientras I<= cant
+   {
+   sumatoria = sumatoria + v[I];
+   I = I + 1
+   };
+  imprime('El resultado es: ',sumatoria)
+  }
+}

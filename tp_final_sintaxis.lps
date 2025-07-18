@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="7" Y="6"/>
+        <UsageCount Value="89"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\analizador_lexico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="338"/>
+        <CursorPos X="8" Y="250"/>
+        <UsageCount Value="89"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\analizador_sintactico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1183"/>
+        <CursorPos X="5" Y="1200"/>
+        <UsageCount Value="89"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\tipos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="54" Y="10"/>
+        <UsageCount Value="87"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\evaluador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="460"/>
+        <CursorPos Y="599"/>
+        <UsageCount Value="82"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="units\interfaz.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="98"/>
+        <CursorPos X="10" Y="105"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="126" Column="39" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="units\analizador_sintactico.pas"/>
+        <Caret Line="784" Column="18" TopLine="775"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="531" Column="10" TopLine="522"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="533" Column="11" TopLine="521"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="396" Column="32" TopLine="387"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="395" Column="23" TopLine="384"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="424" Column="40" TopLine="418"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="425" Column="10" TopLine="408"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="81" Column="80" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="245" Column="33" TopLine="229"/>
+      </Position>
+      <Position>
+        <Filename Value="units\evaluador.pas"/>
+        <Caret Line="206" Column="32" TopLine="200"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="18" Column="18" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="22" Column="14" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="35" Column="3" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="91" Column="8" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="16" Column="35"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="76" Column="15" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="77" Column="9" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="6" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="51" Column="22" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="75" Column="19" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="103" Column="10" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="105" Column="12" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="units\interfaz.pas"/>
+        <Caret Line="109" Column="5" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="20" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="14" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="9" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="tp_final_sintaxis.lpr"/>
+        <Caret Line="6" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="units\analizador_sintactico.pas"/>
+        <Caret Line="108" Column="5" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="units\analizador_sintactico.pas"/>
+        <Caret Line="50" Column="22" TopLine="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="begin"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
